@@ -1,10 +1,34 @@
 #panel {
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  right: 0;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    width: 45vw;
+    background-color: #F8F8FF;
+}
 
-  width: 45vw;
+button {
+    background: #C0C0C0;
+    font-weight: 700;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+}
 
-  background-color: #eee;
+button:hover {
+    background: #B0C4DE;
+    color: #555555;
+    transition: 0.3s;
+}
+
+h1 {
+    margin-left: 10px;
+}
+
+h2 {
+    margin-left: 10px;
 }
