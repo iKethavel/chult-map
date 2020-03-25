@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,OACE,cAAe,CACf,KAAM,CACN,QAAS,CACT,OAAQ,CAER,UAAW,CAEX,qBACF","file":"main.32aa61ed.chunk.css","sourcesContent":["#panel {\n  position: fixed;\n  top: 0;\n  bottom: 0;\n  right: 0;\n\n  width: 45vw;\n\n  background-color: #eee;\n}"]}
